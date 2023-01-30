@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stefan Abageru
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript/Python
+- 🌱 I’m currently learning 
 - 📫 How to reach me: abageru.stefan@gmail.com
 
 <!---
